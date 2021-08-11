@@ -7,14 +7,14 @@
 # Maharajganj Vaccine Alerts
 
 
-## A Telegram Channel providing instant Vaccine availability Alerts for Maharajganj.
+### A Telegram Channel providing instant Vaccine availability Alerts for Maharajganj.
 
 
-##Join Channel
+## Join Channel
 
-[@Vaccine_Alerts_Maharajganj](https://telegram.me/Vaccine_Alerts_Maharajganj)
+### [@Vaccine_Alerts_Maharajganj](https://telegram.me/Vaccine_Alerts_Maharajganj)
 
 
 ## About
 
-Get instant alerts/notifications for new vaccine slot openings in Maharajganj, Uttar Pradesh and stay ahead at booking your Covid19 Vaccines.
+### Get instant alerts/notifications for new vaccine slot openings in Maharajganj, Uttar Pradesh and stay ahead at booking your Covid19 Vaccines.
