@@ -7,10 +7,13 @@
 # Maharajganj Vaccine Alerts
 
 
+### [@Vaccine_Alerts_Maharajganj](https://telegram.me/Vaccine_Alerts_Maharajganj)
+
 ### A Telegram Channel providing instant Vaccine availability Alerts for Maharajganj.
 
 
 ## Join Channel
+
 
 ### [@Vaccine_Alerts_Maharajganj](https://telegram.me/Vaccine_Alerts_Maharajganj)
 
