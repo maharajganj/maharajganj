@@ -4,13 +4,15 @@
   Author: nutomic
   -->
 
-# Vaccine Alerts and Tracker for Maharajganj
+# Maharajganj Vaccine Alerts
 
 
-## Join this Telegram Channel to receive instant Vaccine availability Alerts.
+## A Telegram Channel providing instant Vaccine availability Alerts for Maharajganj.
 
 
-##[![@Vaccine_Alerts_Maharajganj](https://maharajganj.ml/assets/images/vaccine-alerts-maharajganj.jpg)](https://telegram.me/Vaccine_Alerts_Maharajganj)
+##Join Channel
+
+[@Vaccine_Alerts_Maharajganj](https://telegram.me/Vaccine_Alerts_Maharajganj)
 
 
 ## About
