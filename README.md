@@ -20,4 +20,4 @@
 
 ## About
 
-### Get instant alerts/notifications for new vaccine slot openings in Maharajganj, Uttar Pradesh and stay ahead at booking your Covid19 Vaccines.
+### Get instant alerts/notifications for new vaccine slot openings in Maharajganj, Uttar Pradesh and stay ahead at booking Covid19 Vaccines for you and your loved ones.
